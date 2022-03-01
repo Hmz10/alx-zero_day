@@ -1,1 +1,1 @@
-My first readme.
+learnig programming is so cool!.
